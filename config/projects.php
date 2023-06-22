@@ -23,5 +23,34 @@ return [
         [
             'name' => 'Full-Stack'
         ],
+    ],
+    'technology' =>[
+        [
+            'name' => 'PHP'
+        ],
+        [
+            'name' => 'Laravel'
+        ],
+        [
+            'name' => 'Vue'
+        ],
+        [
+            'name' => 'Java Script'
+        ],
+        [
+            'name' => 'Bootstrap'
+        ],
+        [
+            'name' => 'HTML'
+        ],
+        [
+            'name' => 'CSS'
+        ],
+        [
+            'name' => 'SCSS'
+        ],
+        [
+            'name' => 'Vue'
+        ],
     ]
 ];
